@@ -1,0 +1,28 @@
+{
+  "name": "zem-proxy",
+  "version": "1.0.1",
+  "description": "Easy and Fast HTTP Proxy that supports ip whitelist.",
+  "main": "proxy.js",
+  "scripts": {
+    "test": "node test/demo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git rep"
+  },
+  "keywords": [
+    "proxy",
+    "proxies",
+    "http",
+    "socks4",
+    "socks5",
+    "http",
+    "proxy",
+    "anonyme"
+  ],
+  "dependencies": {
+    "request": "^2.67.0"
+  },
+  "author": "jhdscript@gmail.com",
+  "license": "ISC"
+}
